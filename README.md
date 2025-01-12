@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/aleanjosbh/prompts_receipt_to_create_a_ebook/blob/main/E-book_Bootcamp%20DIO%20CAIXA_VFinal.pdf" title="View PDF now"> 📕Clique aqui para ler o E-book</a>
