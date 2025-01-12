@@ -27,10 +27,10 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-- [Notion] (https://notion.so)
-- [Copilot](https://copilot.microsoft.com)
-- [Leonardo AI] (https://leonardo.ai)
+- PowerPoint: (https://www.microsoft.com/en/microsoft-365/powerpoint)
+- Notion: (https://notion.so)
+- Copilot: (https://copilot.microsoft.com)
+- Leonardo.AI: (https://leonardo.ai)
 
 ## 🧠 Prompts
 
